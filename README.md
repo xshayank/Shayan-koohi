@@ -1,9 +1,23 @@
-# 🌹 Shayan koohi
+# 👋 Hi, I'm Shayan
 
-[Discord server](https://discord.gg/QF4MjbDGt8)
-My own server for coding, gaming, everything
+🚀 **Aspiring Software Engineer | Backend & Web Enthusiast**
 
-[My twitter](https://twitter.com/xShayan6)
-This is my Twitter Not active but sometimes i write something in it😉
+Hi there! I’m **Shayan**, a student who loves writing backend code that (usually) doesn’t break things.
 
-If you want to support me you can use this link: [Coffee Bede](https://coffeebede.com/xshayan)
+## 💻 Tech I Speak
+- `Python`
+- `Java`
+- `JavaScript`
+- `HTML`
+- `CSS`
+
+🔧 Currently leveling up in web frameworks and backend magic.
+
+🍎 Proud Hackintosh user — because why make things simple when they can be *interesting*?  
+🐾 Also a proud furry — bringing a bit of fluff to the tech world!
+
+---
+
+_When I’m not coding, I’m probably debugging why my code **worked yesterday but not today**._
+
+📫 **Feel free to check out my projects and drop a star if they made you smile (or at least didn’t crash).**
